@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="128" height="128">
+  <!-- Rounded deep slate background -->
+  <rect width="512" height="512" rx="120" fill="#0f172a"/>
+  
+  <!-- File Document Body -->
+  <path d="M160 100h120l80 80v216a16 16 0 0 1-16 16H160a16 16 0 0 1-16-16V116a16 16 0 0 1 16-16z" fill="#f8fafc"/>
+  
+  <!-- Folded Flap Shadow -->
+  <path d="M280 100v64a16 16 0 0 0 16 16h64z" fill="#cbd5e1"/>
+  
+  <!-- Nested Gantt-style Trace Spans -->
+  <!-- Root Span (Blue) -->
+  <rect x="180" y="215" width="130" height="24" rx="6" fill="#3b82f6"/>
+  
+  <!-- Child Span 1 (Green) -->
+  <rect x="210" y="255" width="75" height="24" rx="6" fill="#10b981"/>
+  
+  <!-- Child Span 2 (Orange) -->
+  <rect x="260" y="295" width="55" height="24" rx="6" fill="#f59e0b"/>
+  
+  <!-- Child Span 3 (Purple) -->
+  <rect x="290" y="335" width="35" height="24" rx="6" fill="#8b5cf6"/>
+</svg>
