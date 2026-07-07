@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/github.com/yourusername/otelfile"><img src="https://pkg.go.dev/badge/github.com/yourusername/otelfile.svg" alt="Go Reference"></a>
-  <a href="https://github.com/yourusername/otelfile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/otelfile" alt="License"></a>
+  <a href="https://pkg.go.dev/github.com/mukailasam/otelfile"><img src="https://pkg.go.dev/badge/github.com/mukailasam/otelfile.svg" alt="Go Reference"></a>
+  <a href="https://github.com/mukailasam/otelfile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mukailasam/otelfile" alt="License"></a>
 </p>
 
 ## The Problem: Blindness vs. Bloat
