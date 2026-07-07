@@ -37,7 +37,7 @@ To inspect your code's path, you don't boot up a backend. You simply open the HT
 ## Installation
 
 ```bash
-go get github.com/yourusername/otelfile
+go get github.com/mukailasam/otelfile
 ```
 
 ## Quick Start
